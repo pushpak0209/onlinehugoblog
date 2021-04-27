@@ -2,20 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pushpak0209.github.io/onlinehugoblog/dir1/b/</loc>
-    <lastmod>2021-04-25T20:36:36+05:30</lastmod>
+    <loc>http://example.org/posts/health/how-to-reduce-weight/</loc>
+    <lastmod>2021-04-26T13:22:08+05:30</lastmod>
   </url><url>
-    <loc>https://pushpak0209.github.io/onlinehugoblog/dir1/</loc>
-    <lastmod>2021-04-25T20:36:36+05:30</lastmod>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-04-26T13:22:08+05:30</lastmod>
   </url><url>
-    <loc>https://pushpak0209.github.io/onlinehugoblog/</loc>
-    <lastmod>2021-04-25T20:36:36+05:30</lastmod>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2021-04-26T13:22:08+05:30</lastmod>
   </url><url>
-    <loc>https://pushpak0209.github.io/onlinehugoblog/a/</loc>
-    <lastmod>2021-04-25T20:35:44+05:30</lastmod>
+    <loc>http://example.org/categories/</loc>
   </url><url>
-    <loc>https://pushpak0209.github.io/onlinehugoblog/categories/</loc>
-  </url><url>
-    <loc>https://pushpak0209.github.io/onlinehugoblog/tags/</loc>
+    <loc>http://example.org/tags/</loc>
   </url>
 </urlset>
