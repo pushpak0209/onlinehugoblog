@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Darsh Khatri</title>
+    <link>https://darshkhatri.com/posts/</link>
+    <description>Recent content in Posts on Darsh Khatri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 May 2021 00:41:20 +0530</lastBuildDate><atom:link href="https://darshkhatri.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is String in Java</title>
+      <link>https://darshkhatri.com/posts/it/string/what-is-string-in-java/</link>
+      <pubDate>Thu, 06 May 2021 00:41:20 +0530</pubDate>
+      
+      <guid>https://darshkhatri.com/posts/it/string/what-is-string-in-java/</guid>
+      <description>
+        
+          &lt;h2 id=&#34;string-in-java&#34;&gt;String In Java&lt;/h2&gt;
+&lt;p&gt;In lemon language we can identify String as a &lt;code&gt;Collection Of Characters&lt;/code&gt;.
+But in java String identify as an object. We can declare String as an array In java as well as simple way as we write a String, But both the way String object collect that value as same.&lt;/p&gt;
+&lt;p&gt;Those two method is below to declare a String .&lt;/p&gt;
+&lt;h4 id=&#34;1-declare-string-using-array&#34;&gt;1. Declare String using array:&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;char&lt;/span&gt; c &lt;span style=&#34;color:#f92672&#34;&gt;[]&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;d&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;a&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;r&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;s&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;h&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
+    String s &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;new&lt;/span&gt; String&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;c&lt;span style=&#34;color:#f92672&#34;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;2-declare-as-string-object&#34;&gt;2. Declare as String Object.&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;   String d &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;darsh&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Note :&lt;/strong&gt; Above two method identify as a similar.&lt;/p&gt;
+&lt;h2 id=&#34;string-methods-in-java&#34;&gt;String Methods In Java&lt;/h2&gt;
+&lt;p&gt;String have numerious method which we can use for simplify logic. few of the method name and description we can understand via below matrix.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Method Name&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;th&gt;Return Value&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;isEmpty()&lt;/td&gt;
+&lt;td&gt;verify for emptry string&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;length()&lt;/td&gt;
+&lt;td&gt;return length of string&lt;/td&gt;
+&lt;td&gt;int&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;toLowerCase()&lt;/td&gt;
+&lt;td&gt;return string in lowercase&lt;/td&gt;
+&lt;td&gt;String&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;toUpperCase()&lt;/td&gt;
+&lt;td&gt;return string in uppercase&lt;/td&gt;
+&lt;td&gt;String&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;charAt(int index)&lt;/td&gt;
+&lt;td&gt;return char value of praticular index&lt;/td&gt;
+&lt;td&gt;char&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;how-many-ways-we-can-create-string-object-&#34;&gt;How many ways we can create String object ?&lt;/h3&gt;
+&lt;p&gt;There are two way we can create a object of String as below :&lt;/p&gt;
+&lt;h4 id=&#34;1-using-string-literal&#34;&gt;1. Using String literal&lt;/h4&gt;
+&lt;h4 id=&#34;2-using-new-keyword&#34;&gt;2. Using new keyword&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;1-using-string-literal-1&#34;&gt;1. Using String literal&lt;/h3&gt;
+&lt;p&gt;String have double quotes that identify as a literal.&lt;/p&gt;
+&lt;h4 id=&#34;heading&#34;&gt;&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;   String d &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;darsh khatri&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Whenever you create a String object using String literal, so it will be check in JVM &lt;code&gt;String pool&lt;/code&gt;. If value of String is alredy exiest so it&amp;rsquo;s returns reference of that &lt;code&gt;String pool&lt;/code&gt; instance. Suppose if there have not simliar value of String in String pool so it will be create new object in JVM.&lt;/p&gt;
+&lt;h5 id=&#34;illustration&#34;&gt;Illustration:&lt;/h5&gt;
+&lt;h4 id=&#34;heading-1&#34;&gt;&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;   String d &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Peter Parker&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;;&lt;/span&gt;
+   String k &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Peter Parker&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;;&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;We have two object as per above pis of code. first String value of handler is   &amp;rsquo;d&#39;  and second is   &amp;lsquo;k&amp;rsquo; . Both contain same value so, only one instance is created in JVM &lt;code&gt;String pool&lt;/code&gt; and other carry as a reference of first one.&lt;/p&gt;
+&lt;h3 id=&#34;1-create-string-using-new-keyword&#34;&gt;1. Create String using new keyword&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;   String s &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;new&lt;/span&gt; String&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Darsh&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;);&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;In above case JVM create new object of String in heap memory and the String literal &lt;code&gt;Darsh&lt;/code&gt; will be in String pool. The variable s is a handle or reference varible of that object.&lt;/p&gt;
+&lt;h2 id=&#34;string-example-in-java&#34;&gt;String Example in Java&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Employee&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;
+        &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;String args&lt;span style=&#34;color:#f92672&#34;&gt;[]){&lt;/span&gt;
+            String e1 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Peter Parker&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;;&lt;/span&gt;
+            &lt;span style=&#34;color:#66d9ef&#34;&gt;char&lt;/span&gt; c &lt;span style=&#34;color:#f92672&#34;&gt;[]&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;j&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;o&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;h&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;n&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;};&lt;/span&gt;
+            String e2 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;new&lt;/span&gt; String&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;c&lt;span style=&#34;color:#f92672&#34;&gt;);&lt;/span&gt;
+            String e3 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;new&lt;/span&gt; String&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;kate&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;);&lt;/span&gt;
+            System&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;e1&lt;span style=&#34;color:#f92672&#34;&gt;);&lt;/span&gt;  
+            System&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;e2&lt;span style=&#34;color:#f92672&#34;&gt;);&lt;/span&gt;  
+            System&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;e3&lt;span style=&#34;color:#f92672&#34;&gt;);&lt;/span&gt;
+        &lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;   
+    &lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;output-is-&#34;&gt;Output is :&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;   Peter Parker
+   john
+   kate 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;conclusion-points&#34;&gt;Conclusion Points:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Collection of character called String.&lt;/li&gt;
+&lt;li&gt;String is Object.
+We can create String two way. 1) String literal and 2) Using new keyword .&lt;/li&gt;
+&lt;li&gt;If Literal String have similar value so, new reference is not created in JVM
+&lt;code&gt;string pool&lt;/code&gt; . It use reference of duplicate value.&lt;/li&gt;
+&lt;li&gt;String have various method so we can use that for different type operation.&lt;/li&gt;
+&lt;/ul&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Best 2 Way to Lose Your Weight Tips</title>
+      <link>https://darshkhatri.com/posts/health/weight-lose/best-2-way-to-lose-your-weight-tips/</link>
+      <pubDate>Wed, 28 Apr 2021 18:05:26 +0530</pubDate>
+      
+      <guid>https://darshkhatri.com/posts/health/weight-lose/best-2-way-to-lose-your-weight-tips/</guid>
+      <description>
+        
+          &lt;h4 id=&#34;heading&#34;&gt;&lt;/h4&gt;
+&lt;h1 id=&#34;there-is-numerous-way-to-lose-bodyweight-but-out-of-all-of-those-i-will-let-you-know-about-the-most-effective-3-methods-of-losing-weight&#34;&gt;There is numerous way to lose bodyweight but out of all of those, I will let you know about the most effective 3 methods of losing weight.&lt;/h1&gt;
+&lt;p&gt;Weight is the most important factor for our body as well as our health, mind. we can face lots of issues due to overweight, but here I suggest you to some healthy tips to reduce your weight and maintain your balance.&lt;/p&gt;
+&lt;h2 id=&#34;1-eath-healthy-food&#34;&gt;1. Eath Healthy Food&lt;/h2&gt;
+&lt;p&gt;Healthy food is an extremely key point in our body and one of the very known quotes that I remember at this point is &amp;ldquo;You Are What You Eat&amp;rdquo;. We need to eat healthy food like vegetables, fruits as well as dried fruits such as almond, walnut, apricot, raisins, walnuts, etc.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://images.pexels.com/photos/1295572/pexels-photo-1295572.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;dpr=2&amp;amp;h=650&amp;amp;w=940&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Apart from the above, we can consume seeds like Chia seeds. We can inject that in several ways like: prepare ice cream or milk using seeds.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://images.pexels.com/photos/5803171/pexels-photo-5803171.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;dpr=2&amp;amp;h=650&amp;amp;w=940&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;how-can-we-forget-fruits-while-we-are-discussing-weight-loss-and-maintain-the-body&#34;&gt;How can we forget &amp;ldquo;Fruits&amp;rdquo; while we are discussing weight loss and maintain the body?&lt;/h4&gt;
+&lt;p&gt;Fruits are a natural source of gaining vitamins and nutrition for our body, so we can get plenty of energy to achieve our daily goals. We must eat fruits that contain ample water like watermelon, strawberries, peaches, orange, etc.&lt;/p&gt;
+&lt;p&gt;Consumption of fruits is also effective for our skin plus the intestine and it also helps for increasing immunity.&lt;/p&gt;
+&lt;p&gt;Remember that we need to eat so many colors at the time of lunch and breakfast, hence we can feel energetic in our fields.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg?cs=srgb&amp;amp;dl=pexels-jane-d-1092730.jpg&amp;amp;fm=jpg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;dpr=2&amp;amp;h=650&amp;amp;w=940&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-natural-exerciseworkout&#34;&gt;2. Natural Exercise(WorkOut)&lt;/h3&gt;
+&lt;h4 id=&#34;21-walking&#34;&gt;2.1 Walking&lt;/h4&gt;
+&lt;p&gt;There is numerous exercise which you can do for reduce weight and belly fat. The primary exercise is &amp;ldquo;&lt;strong&gt;Walk&lt;/strong&gt;&amp;rdquo;. Every human needs to walk at least 30min per day, which helps to reduce weight and maintain the body, increased cardiovascular, decreased risk of heart stroke, or heart-related disease. &amp;ldquo;&lt;strong&gt;Walking&lt;/strong&gt;&amp;rdquo; helps to make a born stronger and burn calories. Apart from that below is more advantages of &amp;ldquo;&lt;strong&gt;30 minutes Walking&lt;/strong&gt;&amp;rdquo; every day.&lt;/p&gt;
+&lt;h4 id=&#34;advantage-of-30-minutes-walk&#34;&gt;Advantage of 30 minutes Walk.&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Increase immunity&lt;/li&gt;
+&lt;li&gt;Improve mental health&lt;/li&gt;
+&lt;li&gt;Creative Thinking&lt;/li&gt;
+&lt;li&gt;It can help to control or lower blood sugar
+&lt;img src=&#34;https://images.pexels.com/photos/1466852/pexels-photo-1466852.jpeg?cs=srgb&amp;amp;dl=pexels-yogendra-singh-1466852.jpg&amp;amp;fm=jpg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;dpr=2&amp;amp;h=650&amp;amp;w=940&#34; alt=&#34;&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;22-yoga&#34;&gt;2.2 Yoga&lt;/h4&gt;
+&lt;p&gt;Indian assistant foremost root for &amp;ldquo;&lt;strong&gt;exercise&lt;/strong&gt;&amp;rdquo; is &amp;ldquo;&lt;strong&gt;Yoga&lt;/strong&gt;&amp;rdquo; and now a day it is most popular to maintain a body and reduce weight. There are varipus pose in yoga that helps to reduce weight like : &amp;ldquo;&lt;strong&gt;Bhujangasana, Kumbhakasana, Naukasana, Ustrasana, Dhanurasana&lt;/strong&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Bhujangasana (Cobra pose)
+&lt;img src=&#34;https://images.pexels.com/photos/4127315/pexels-photo-4127315.jpeg?cs=srgb&amp;amp;dl=pexels-yogendra-singh-1466852.jpg&amp;amp;fm=jpg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;dpr=2&amp;amp;h=650&amp;amp;w=940&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Kumbhakasana(The plank)
+&lt;img src=&#34;https://images.pexels.com/photos/3823063/pexels-photo-3823063.jpeg?cs=srgb&amp;amp;dl=pexels-yogendra-singh-1466852.jpg&amp;amp;fm=jpg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;dpr=2&amp;amp;h=650&amp;amp;w=940&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Naukasana(Boat pose)
+&lt;img src=&#34;https://images.pexels.com/photos/4127327/pexels-photo-4127327.jpeg?cs=srgb&amp;amp;dl=pexels-yogendra-singh-1466852.jpg&amp;amp;fm=jpg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;dpr=2&amp;amp;h=650&amp;amp;w=940&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ustrasana(Camel Pose)
+&lt;img src=&#34;https://images.pexels.com/photos/4793286/pexels-photo-4793286.jpeg?cs=srgb&amp;amp;dl=pexels-yogendra-singh-1466852.jpg&amp;amp;fm=jpg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;dpr=2&amp;amp;h=650&amp;amp;w=940&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Dhanurasana(Bow pose)
+&lt;img src=&#34;https://images.pexels.com/photos/3822366/pexels-photo-3822366.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;dpr=2&amp;amp;h=650&amp;amp;w=940&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&lt;strong&gt;Surya Namaskar&lt;/strong&gt;&amp;rdquo; is also best for maintaining the body, energy as well as fat loss.
+It&amp;rsquo;s a good cardio exercise and Its stances help in extending your stomach muscles making you shed pounds around the midsection so, approximately 10 minutes of &amp;ldquo;&lt;strong&gt;Surya Namaskar&lt;/strong&gt;&amp;rdquo; burning &amp;ldquo;&lt;strong&gt;139 calories&lt;/strong&gt;&amp;rdquo;. It is also helpful to bring down blood sugar levels.&lt;/p&gt;
+&lt;p&gt;Prefer timing for &amp;ldquo;&lt;strong&gt;Surya Namaskar&lt;/strong&gt;&amp;rdquo; is either in early(sunrise time) morning or late evening(sunset)&lt;/p&gt;
+&lt;p&gt;You can follow the below way to do &amp;ldquo;&lt;strong&gt;Surya Namaskar&lt;/strong&gt;&amp;rdquo;.
+&lt;img src=&#34;https://i.gifer.com/DYLV.gif?auto=compress&amp;amp;cs=tinysrgb&amp;amp;dpr=2&amp;amp;h=650&amp;amp;w=940&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;to-put-it-in-nutshell-the-above-two-methods-assist-you-to-help-improve-your-immune-system-if-you-follow-them-in-daily-routine-life-also-it-helps-to-reduce-weight&#34;&gt;To put it in nutshell, the above two methods assist you to help improve your immune system if you follow them in daily routine life also it helps to reduce weight.&lt;/h4&gt;
+&lt;h2 id=&#34;stay-healthy-and-stay-fit&#34;&gt;Stay Healthy and Stay Fit.&lt;/h2&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
