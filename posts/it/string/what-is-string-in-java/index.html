@@ -137,17 +137,17 @@ if (!doNotTrack) {
 
     
     <h2 id="string-in-java">String In Java</h2>
-<p>In lemon language we can identify String as a <code>Collection Of Characters</code>.
+<p>In lemon language, we can identify String as a <code>Collection Of Characters</code>.
 But in java String identify as an object. We can declare String as an array In java as well as simple way as we write a String, But both the way String object collect that value as same.</p>
-<p>Those two method is below to declare a String .</p>
+<p>Those two methods are below to declare a String.</p>
 <h4 id="1-declare-string-using-array">1. Declare String using array:</h4>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-java" data-lang="java">    <span style="color:#66d9ef">char</span> c <span style="color:#f92672">[]</span> <span style="color:#f92672">=</span> <span style="color:#f92672">{</span><span style="color:#e6db74">&#39;d&#39;</span><span style="color:#f92672">,</span><span style="color:#e6db74">&#39;a&#39;</span><span style="color:#f92672">,</span><span style="color:#e6db74">&#39;r&#39;</span><span style="color:#f92672">,</span><span style="color:#e6db74">&#39;s&#39;</span><span style="color:#f92672">,</span><span style="color:#e6db74">&#39;h&#39;</span><span style="color:#f92672">}</span>
     String s <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> String<span style="color:#f92672">(</span>c<span style="color:#f92672">);</span>
 </code></pre></div><h4 id="2-declare-as-string-object">2. Declare as String Object.</h4>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-java" data-lang="java">   String d <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;darsh&#34;</span><span style="color:#f92672">;</span>
-</code></pre></div><p><strong>Note :</strong> Above two method identify as a similar.</p>
+</code></pre></div><p><strong>Note:</strong> The above two methods work similarly.</p>
 <h2 id="string-methods-in-java">String Methods In Java</h2>
-<p>String have numerious method which we can use for simplify logic. few of the method name and description we can understand via below matrix.</p>
+<p>The string has numerous method which we can use for simplifying logic. few of the method names and descriptions we can understand via the below matrix.</p>
 <table>
 <thead>
 <tr>
@@ -184,25 +184,25 @@ But in java String identify as an object. We can declare String as an array In j
 </tr>
 </tbody>
 </table>
-<h3 id="how-many-ways-we-can-create-string-object-">How many ways we can create String object ?</h3>
-<p>There are two way we can create a object of String as below :</p>
+<h3 id="how-many-ways-we-can-create-a-string-object">How many ways we can create a String object?</h3>
+<p>There is two way we can create an object of String as below :</p>
 <h4 id="1-using-string-literal">1. Using String literal</h4>
 <h4 id="2-using-new-keyword">2. Using new keyword</h4>
 <hr>
 <h3 id="1-using-string-literal-1">1. Using String literal</h3>
-<p>String have double quotes that identify as a literal.</p>
+<p>The string has double quotes that identify as literal.</p>
 <h4 id="heading"></h4>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-java" data-lang="java">   String d <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;darsh khatri&#34;</span><span style="color:#f92672">;</span>
-</code></pre></div><p>Whenever you create a String object using String literal, so it will be check in JVM <code>String pool</code>. If value of String is alredy exiest so it&rsquo;s returns reference of that <code>String pool</code> instance. Suppose if there have not simliar value of String in String pool so it will be create new object in JVM.</p>
+</code></pre></div><p>Whenever you create a String object using String literal, so it will be found in JVM <code>String pool</code>. If the value of String already exists and it returns a reference of that <code>String pool</code> instance. Suppose if there has not a similar value of String in the String pool then, it will create a new object in JVM.</p>
 <h5 id="illustration">Illustration:</h5>
 <h4 id="heading-1"></h4>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-java" data-lang="java">   String d <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Peter Parker&#34;</span><span style="color:#f92672">;</span>
    String k <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Peter Parker&#34;</span><span style="color:#f92672">;</span>
 
-</code></pre></div><p>We have two object as per above pis of code. first String value of handler is   &rsquo;d'  and second is   &lsquo;k&rsquo; . Both contain same value so, only one instance is created in JVM <code>String pool</code> and other carry as a reference of first one.</p>
+</code></pre></div><p>We have two objects as per the above pis of code. the first String value of the handler is   &rsquo;d' and the second is   &lsquo;k&rsquo; . Both contain the same value and only one instance is created in JVM <code>String pool</code>, and the other carriers as a reference of the first one.</p>
 <h3 id="1-create-string-using-new-keyword">1. Create String using new keyword</h3>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-java" data-lang="java">   String s <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> String<span style="color:#f92672">(</span><span style="color:#e6db74">&#34;Darsh&#34;</span><span style="color:#f92672">);</span> 
-</code></pre></div><p>In above case JVM create new object of String in heap memory and the String literal <code>Darsh</code> will be in String pool. The variable s is a handle or reference varible of that object.</p>
+</code></pre></div><p>In the above case, JVM creates a new object of String in heap memory, and the String literal <code>Darsh</code> will be in the String pool. The variable &rsquo;s' is a handle or reference variable of that object.</p>
 <h2 id="string-example-in-java">String Example in Java</h2>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-java" data-lang="java">    <span style="color:#66d9ef">public</span> <span style="color:#66d9ef">class</span> <span style="color:#a6e22e">Employee</span><span style="color:#f92672">{</span>
         <span style="color:#66d9ef">public</span> <span style="color:#66d9ef">static</span> <span style="color:#66d9ef">void</span> <span style="color:#a6e22e">main</span><span style="color:#f92672">(</span>String args<span style="color:#f92672">[]){</span>
@@ -221,12 +221,12 @@ But in java String identify as an object. We can declare String as an array In j
    kate 
 </code></pre></div><h3 id="conclusion-points">Conclusion Points:</h3>
 <ul>
-<li>Collection of character called String.</li>
-<li>String is Object.
-We can create String two way. 1) String literal and 2) Using new keyword .</li>
-<li>If Literal String have similar value so, new reference is not created in JVM
-<code>string pool</code> . It use reference of duplicate value.</li>
-<li>String have various method so we can use that for different type operation.</li>
+<li>Collection of characters called String.</li>
+<li>String is Object.</li>
+<li>We can create String two-way. 1) String literal and 2) Using new keyword. .</li>
+<li>If Literal String have a similar value so, a new reference is not created in JVM
+<code>string pool</code>. It uses the reference of duplicate value.</li>
+<li>String has various methods so, we can use that for different types of operation.</li>
 </ul>
 
 
