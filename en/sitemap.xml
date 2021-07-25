@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://darshkhatri.com/</loc>
-    <lastmod>2021-05-21T13:00:44+05:30</lastmod>
+    <lastmod>2021-07-15T18:17:23+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -15,11 +15,8 @@
                 href="https://darshkhatri.com/"
                 />
   </url><url>
-    <loc>https://darshkhatri.com/post/ielts/5-tips-for-how-to-crack-ielts-in-10-days/</loc>
-    <lastmod>2021-05-21T13:00:44+05:30</lastmod>
-  </url><url>
     <loc>https://darshkhatri.com/categories/</loc>
-    <lastmod>2021-05-21T13:00:44+05:30</lastmod>
+    <lastmod>2021-07-15T18:17:23+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -30,6 +27,52 @@
                 hreflang="en"
                 href="https://darshkhatri.com/categories/"
                 />
+  </url><url>
+    <loc>https://darshkhatri.com/post/it/java/java-check-if-input-is-integer-or-string/</loc>
+    <lastmod>2021-07-15T18:17:23+05:30</lastmod>
+  </url><url>
+    <loc>https://darshkhatri.com/tags/core-java/</loc>
+    <lastmod>2021-07-15T18:17:23+05:30</lastmod>
+  </url><url>
+    <loc>https://darshkhatri.com/categories/information-techonology/</loc>
+    <lastmod>2021-07-15T18:17:23+05:30</lastmod>
+  </url><url>
+    <loc>https://darshkhatri.com/tags/integer/</loc>
+    <lastmod>2021-07-15T18:17:23+05:30</lastmod>
+  </url><url>
+    <loc>https://darshkhatri.com/tags/java/</loc>
+    <lastmod>2021-07-15T18:17:23+05:30</lastmod>
+  </url><url>
+    <loc>https://darshkhatri.com/tags/java8/</loc>
+    <lastmod>2021-07-15T18:17:23+05:30</lastmod>
+  </url><url>
+    <loc>https://darshkhatri.com/tags/javadeveloper/</loc>
+    <lastmod>2021-07-15T18:17:23+05:30</lastmod>
+  </url><url>
+    <loc>https://darshkhatri.com/tags/javaprogramming/</loc>
+    <lastmod>2021-07-15T18:17:23+05:30</lastmod>
+  </url><url>
+    <loc>https://darshkhatri.com/post/</loc>
+    <lastmod>2021-07-15T18:17:23+05:30</lastmod>
+  </url><url>
+    <loc>https://darshkhatri.com/tags/string/</loc>
+    <lastmod>2021-07-15T18:17:23+05:30</lastmod>
+  </url><url>
+    <loc>https://darshkhatri.com/tags/</loc>
+    <lastmod>2021-07-15T18:17:23+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://darshkhatri.com/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://darshkhatri.com/tags/"
+                />
+  </url><url>
+    <loc>https://darshkhatri.com/post/ielts/5-tips-for-how-to-crack-ielts-in-10-days/</loc>
+    <lastmod>2021-05-21T13:00:44+05:30</lastmod>
   </url><url>
     <loc>https://darshkhatri.com/tags/crack-ielts/</loc>
     <lastmod>2021-05-21T13:00:44+05:30</lastmod>
@@ -42,22 +85,6 @@
   </url><url>
     <loc>https://darshkhatri.com/tags/learning-english/</loc>
     <lastmod>2021-05-21T13:00:44+05:30</lastmod>
-  </url><url>
-    <loc>https://darshkhatri.com/post/</loc>
-    <lastmod>2021-05-21T13:00:44+05:30</lastmod>
-  </url><url>
-    <loc>https://darshkhatri.com/tags/</loc>
-    <lastmod>2021-05-21T13:00:44+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://darshkhatri.com/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://darshkhatri.com/tags/"
-                />
   </url><url>
     <loc>https://darshkhatri.com/contact/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
@@ -98,19 +125,7 @@
     <loc>https://darshkhatri.com/tags/ielts-speaking-topic/</loc>
     <lastmod>2021-05-09T18:31:06+05:30</lastmod>
   </url><url>
-    <loc>https://darshkhatri.com/tags/core-java/</loc>
-    <lastmod>2021-05-06T00:41:20+05:30</lastmod>
-  </url><url>
     <loc>https://darshkhatri.com/tags/how-to-declare-a-string-in-java/</loc>
-    <lastmod>2021-05-06T00:41:20+05:30</lastmod>
-  </url><url>
-    <loc>https://darshkhatri.com/categories/information-techonology/</loc>
-    <lastmod>2021-05-06T00:41:20+05:30</lastmod>
-  </url><url>
-    <loc>https://darshkhatri.com/tags/java/</loc>
-    <lastmod>2021-05-06T00:41:20+05:30</lastmod>
-  </url><url>
-    <loc>https://darshkhatri.com/tags/string/</loc>
     <lastmod>2021-05-06T00:41:20+05:30</lastmod>
   </url><url>
     <loc>https://darshkhatri.com/tags/string-declaration/</loc>
