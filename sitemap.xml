@@ -3,222 +3,247 @@
 		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://darshkhatri.com/</loc>
-	<lastmod>2021-06-05T12:28:35+01:00</lastmod>
+	<lastmod>2021-07-25T21:27:48+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/categories/education/</loc>
-	<lastmod>2021-06-05T12:28:36+01:00</lastmod>
+	<lastmod>2021-07-25T21:27:50+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/categories/health/</loc>
-	<lastmod>2021-06-05T12:28:38+01:00</lastmod>
+	<lastmod>2021-07-25T21:27:53+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/categories/information-techonology/</loc>
-	<lastmod>2021-06-05T12:28:39+01:00</lastmod>
+	<lastmod>2021-07-25T21:27:53+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/pt/</loc>
-	<lastmod>2021-06-05T12:28:39+01:00</lastmod>
+	<lastmod>2021-07-25T21:27:53+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
+	<loc>https://darshkhatri.com/post/it/java/java-check-if-input-is-integer-or-string/</loc>
+	<lastmod>2021-07-25T21:27:54+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
 	<loc>https://darshkhatri.com/post/ielts/5-tips-for-how-to-crack-ielts-in-10-days/</loc>
-	<lastmod>2021-06-05T12:28:39+01:00</lastmod>
+	<lastmod>2021-07-25T21:27:55+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/post/health/weight-lose/the-5-best-things-about-how-to-boost-immune-system-naturally/</loc>
-	<lastmod>2021-06-05T12:28:40+01:00</lastmod>
+	<lastmod>2021-07-25T21:27:59+01:00</lastmod>
 	<priority>0.2</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/post/health/weight-lose/how-to-why-you-need-to-do-yoga-daily/</loc>
-	<lastmod>2021-06-05T12:28:41+01:00</lastmod>
+	<lastmod>2021-07-25T21:27:56+01:00</lastmod>
 	<priority>0.2</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/post/ielts/speaking/describe-yourself-in-a-few-lines-ielts-speaking-topic/</loc>
-	<lastmod>2021-06-05T12:28:42+01:00</lastmod>
+	<lastmod>2021-07-25T21:27:57+01:00</lastmod>
 	<priority>0.2</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/post/it/string/what-is-string-in-java/</loc>
-	<lastmod>2021-06-05T12:28:42+01:00</lastmod>
+	<lastmod>2021-07-25T21:27:58+01:00</lastmod>
 	<priority>0.2</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/post/health/weight-lose/best-2-way-to-loss-your-weight-tips/</loc>
-	<lastmod>2021-06-05T12:28:43+01:00</lastmod>
+	<lastmod>2021-07-25T21:27:58+01:00</lastmod>
 	<priority>0.2</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/about/</loc>
-	<lastmod>2021-06-05T12:28:43+01:00</lastmod>
+	<lastmod>2021-07-25T21:27:59+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://darshkhatri.com/tags/ielts/</loc>
-	<lastmod>2021-06-05T12:28:44+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://darshkhatri.com/tags/learning-english/</loc>
-	<lastmod>2021-06-05T12:28:44+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
 	<loc>https://darshkhatri.com/tags/core-java/</loc>
-	<lastmod>2021-06-05T12:28:44+01:00</lastmod>
+	<lastmod>2021-07-25T21:28:00+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://darshkhatri.com/tags/coronavirus/</loc>
-	<lastmod>2021-06-05T12:28:44+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://darshkhatri.com/tags/crack-ielts/</loc>
-	<lastmod>2021-06-05T12:28:44+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://darshkhatri.com/tags/fatloss/</loc>
-	<lastmod>2021-06-05T12:28:44+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://darshkhatri.com/tags/fitness/</loc>
-	<lastmod>2021-06-05T12:28:44+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://darshkhatri.com/tags/healthyliving/</loc>
-	<lastmod>2021-06-05T12:28:44+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://darshkhatri.com/tags/how-to-declare-a-string-in-java/</loc>
-	<lastmod>2021-06-05T12:28:45+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://darshkhatri.com/tags/ielts-speaking-topic/</loc>
-	<lastmod>2021-06-05T12:28:45+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://darshkhatri.com/tags/immunesystem/</loc>
-	<lastmod>2021-06-05T12:28:45+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://darshkhatri.com/tags/immunitybooster/</loc>
-	<lastmod>2021-06-05T12:28:45+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://darshkhatri.com/tags/improve-health/</loc>
-	<lastmod>2021-06-05T12:28:45+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://darshkhatri.com/tags/index/</loc>
-	<lastmod>2021-06-05T12:28:45+01:00</lastmod>
+	<loc>https://darshkhatri.com/tags/ielts/</loc>
+	<lastmod>2021-07-25T21:28:00+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/tags/java/</loc>
-	<lastmod>2021-06-05T12:28:45+01:00</lastmod>
+	<lastmod>2021-07-25T21:28:00+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://darshkhatri.com/tags/meditation/</loc>
-	<lastmod>2021-06-05T12:28:45+01:00</lastmod>
+	<loc>https://darshkhatri.com/tags/learning-english/</loc>
+	<lastmod>2021-07-25T21:28:00+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/tags/string/</loc>
-	<lastmod>2021-06-05T12:28:45+01:00</lastmod>
+	<lastmod>2021-07-25T21:28:00+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://darshkhatri.com/tags/coronavirus/</loc>
+	<lastmod>2021-07-25T21:28:00+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://darshkhatri.com/tags/crack-ielts/</loc>
+	<lastmod>2021-07-25T21:28:01+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://darshkhatri.com/tags/fatloss/</loc>
+	<lastmod>2021-07-25T21:28:01+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://darshkhatri.com/tags/fitness/</loc>
+	<lastmod>2021-07-25T21:28:01+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://darshkhatri.com/tags/healthyliving/</loc>
+	<lastmod>2021-07-25T21:28:01+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://darshkhatri.com/tags/how-to-declare-a-string-in-java/</loc>
+	<lastmod>2021-07-25T21:28:01+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://darshkhatri.com/tags/ielts-speaking-topic/</loc>
+	<lastmod>2021-07-25T21:28:01+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://darshkhatri.com/tags/immunesystem/</loc>
+	<lastmod>2021-07-25T21:28:01+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://darshkhatri.com/tags/immunitybooster/</loc>
+	<lastmod>2021-07-25T21:28:01+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://darshkhatri.com/tags/improve-health/</loc>
+	<lastmod>2021-07-25T21:28:02+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://darshkhatri.com/tags/index/</loc>
+	<lastmod>2021-07-25T21:28:02+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://darshkhatri.com/tags/integer/</loc>
+	<lastmod>2021-07-25T21:28:02+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://darshkhatri.com/tags/java8/</loc>
+	<lastmod>2021-07-25T21:28:02+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://darshkhatri.com/tags/javadeveloper/</loc>
+	<lastmod>2021-07-25T21:28:02+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://darshkhatri.com/tags/javaprogramming/</loc>
+	<lastmod>2021-07-25T21:28:02+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://darshkhatri.com/tags/meditation/</loc>
+	<lastmod>2021-07-25T21:28:02+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/tags/string-declaration/</loc>
-	<lastmod>2021-06-05T12:28:45+01:00</lastmod>
+	<lastmod>2021-07-25T21:28:02+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/tags/string-method/</loc>
-	<lastmod>2021-06-05T12:28:45+01:00</lastmod>
+	<lastmod>2021-07-25T21:28:02+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/tags/weight-loss/</loc>
-	<lastmod>2021-06-05T12:28:45+01:00</lastmod>
+	<lastmod>2021-07-25T21:28:02+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/tags/workout/</loc>
-	<lastmod>2021-06-05T12:28:46+01:00</lastmod>
+	<lastmod>2021-07-25T21:28:03+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/tags/yoga/</loc>
-	<lastmod>2021-06-05T12:28:46+01:00</lastmod>
+	<lastmod>2021-07-25T21:28:03+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/tags/yogateacher/</loc>
-	<lastmod>2021-06-05T12:28:46+01:00</lastmod>
+	<lastmod>2021-07-25T21:28:03+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/pt/about/</loc>
-	<lastmod>2021-06-05T12:28:46+01:00</lastmod>
+	<lastmod>2021-07-25T21:28:03+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/post/</loc>
-	<lastmod>2021-06-05T12:28:46+01:00</lastmod>
+	<lastmod>2021-07-25T21:28:04+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/tags/index</loc>
-	<lastmod>2021-06-05T12:28:46+01:00</lastmod>
+	<lastmod>2021-07-25T21:28:04+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/contact/</loc>
-	<lastmod>2021-06-05T12:28:47+01:00</lastmod>
+	<lastmod>2021-07-25T21:28:04+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/privacy/</loc>
-	<lastmod>2021-06-05T12:28:47+01:00</lastmod>
+	<lastmod>2021-07-25T21:28:04+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/disclaimer/</loc>
-	<lastmod>2021-06-05T12:28:47+01:00</lastmod>
+	<lastmod>2021-07-25T21:28:04+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/tags/</loc>
-	<lastmod>2021-06-05T12:28:47+01:00</lastmod>
+	<lastmod>2021-07-25T21:28:04+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/tags/page/2/</loc>
-	<lastmod>2021-06-05T12:28:47+01:00</lastmod>
+	<lastmod>2021-07-25T21:28:04+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 <url>
 	<loc>https://darshkhatri.com/tags/page/3/</loc>
-	<lastmod>2021-06-05T12:28:47+01:00</lastmod>
+	<lastmod>2021-07-25T21:28:04+01:00</lastmod>
 	<priority>0.4</priority>
 </url>
 </urlset>
