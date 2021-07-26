@@ -31,9 +31,9 @@
 &lt;h3 id=&#34;check-if-the-string-is-number-java&#34;&gt;Check if the string is number java&lt;/h3&gt;
 &lt;h3 id=&#34;in-java-check-if-the-string-is-numeric&#34;&gt;In JAVA check if the string is numeric&lt;/h3&gt;
 &lt;h3 id=&#34;how-can-identify-input-is-a-string-or-integer-in-java&#34;&gt;How can identify input is a string or integer in java&lt;/h3&gt;
-&lt;h2 id=&#34;2-practical-code&#34;&gt;2. Practical Code&lt;/h2&gt;
+&lt;h2 id=&#34;3-practical-code&#34;&gt;3. Practical Code&lt;/h2&gt;
 &lt;p&gt;There is mainly two way we can give above all answer.&lt;/p&gt;
-&lt;h4 id=&#34;211-logical-code-using-java&#34;&gt;2.1.1 Logical Code Using JAVA:&lt;/h4&gt;
+&lt;h3 id=&#34;31-logical-code-using-java&#34;&gt;3.1 Logical Code Using JAVA:&lt;/h3&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;ln&#34;&gt; 1&lt;/span&gt;&lt;span class=&#34;kd&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;kd&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;nc&#34;&gt;NumberCheck&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
 &lt;span class=&#34;ln&#34;&gt; 2&lt;/span&gt;
 &lt;span class=&#34;ln&#34;&gt; 3&lt;/span&gt;	&lt;span class=&#34;kd&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;kd&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;String&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[]&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;args&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;{&lt;/span&gt;
@@ -64,13 +64,13 @@
 &lt;span class=&#34;ln&#34;&gt;28&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
 &lt;span class=&#34;ln&#34;&gt;29&lt;/span&gt;
 &lt;span class=&#34;ln&#34;&gt;30&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;output&#34;&gt;Output&lt;/h3&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;output&#34;&gt;Output&lt;/h4&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;  113 is numeric : true
 &lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;  29.9 is numeric : true
 &lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;  9.9d is numeric : true
 &lt;span class=&#34;ln&#34;&gt;4&lt;/span&gt;  xyz is numeric : false
 &lt;span class=&#34;ln&#34;&gt;5&lt;/span&gt;  -369 is numeric : true
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;212-using-depedency-or-library-in-java-project&#34;&gt;2.1.2 Using Depedency or Library in JAVA project.&lt;/h4&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;311-using-depedency-or-library-in-java-project&#34;&gt;3.1.1 Using Depedency or Library in JAVA project.&lt;/h3&gt;
 &lt;p&gt;You need to add below depedency in your project.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;   &amp;lt;dependency&amp;gt;
 &lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;    &amp;lt;groupId&amp;gt;org.apache.commons&amp;lt;/groupId&amp;gt;
@@ -93,14 +93,14 @@
 &lt;span class=&#34;ln&#34;&gt;14&lt;/span&gt;    &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
 &lt;span class=&#34;ln&#34;&gt;15&lt;/span&gt;
 &lt;span class=&#34;ln&#34;&gt;16&lt;/span&gt;  &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;output-1&#34;&gt;Output&lt;/h3&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;output-1&#34;&gt;Output&lt;/h4&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;  113 is numeric : true
 &lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;  29.9 is numeric : true
 &lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;  9.9d is numeric : true
 &lt;span class=&#34;ln&#34;&gt;4&lt;/span&gt;  xyz is numeric : false
 &lt;span class=&#34;ln&#34;&gt;5&lt;/span&gt;  -369 is numeric : true
 &lt;span class=&#34;ln&#34;&gt;6&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;3-conclusion&#34;&gt;3. Conclusion&lt;/h2&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;4-conclusion&#34;&gt;4. Conclusion&lt;/h2&gt;
 &lt;p&gt;To put it in nutshell in this article we got brief knowledge about identifying a String is a numeric or not in java. We identify both ways via external library and codebase.&lt;/p&gt;
 
         
