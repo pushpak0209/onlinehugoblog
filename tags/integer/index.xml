@@ -26,11 +26,11 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;In the above example, you see that &amp;quot;XYZ&amp;quot; is String as we clearly identify manually But it is difficult to identify using some code.&lt;/p&gt;
 &lt;h2 id=&#34;2-question-to-be-asked&#34;&gt;2. Question to be asked&lt;/h2&gt;
 &lt;p&gt;There is more than one way anyone can ask this question as below:&lt;/p&gt;
-&lt;h2 id=&#34;check-if-the-string-is-int&#34;&gt;Check if the string is int&lt;/h2&gt;
-&lt;h2 id=&#34;in-java-check-if-the-string-is-a-number&#34;&gt;In JAVA check if the string is a number&lt;/h2&gt;
-&lt;h2 id=&#34;check-if-the-string-is-number-java&#34;&gt;Check if the string is number java&lt;/h2&gt;
-&lt;h2 id=&#34;in-java-check-if-the-string-is-numeric&#34;&gt;In JAVA check if the string is numeric&lt;/h2&gt;
-&lt;h2 id=&#34;how-can-identify-input-is-a-string-or-integer-in-java&#34;&gt;How can identify input is a string or integer in java&lt;/h2&gt;
+&lt;h3 id=&#34;check-if-the-string-is-int&#34;&gt;Check if the string is int&lt;/h3&gt;
+&lt;h3 id=&#34;in-java-check-if-the-string-is-a-number&#34;&gt;In JAVA check if the string is a number&lt;/h3&gt;
+&lt;h3 id=&#34;check-if-the-string-is-number-java&#34;&gt;Check if the string is number java&lt;/h3&gt;
+&lt;h3 id=&#34;in-java-check-if-the-string-is-numeric&#34;&gt;In JAVA check if the string is numeric&lt;/h3&gt;
+&lt;h3 id=&#34;how-can-identify-input-is-a-string-or-integer-in-java&#34;&gt;How can identify input is a string or integer in java&lt;/h3&gt;
 &lt;h2 id=&#34;2-practical-code&#34;&gt;2. Practical Code&lt;/h2&gt;
 &lt;p&gt;There is mainly two way we can give above all answer.&lt;/p&gt;
 &lt;h4 id=&#34;211-logical-code-using-java&#34;&gt;2.1.1 Logical Code Using JAVA:&lt;/h4&gt;
@@ -101,7 +101,7 @@
 &lt;span class=&#34;ln&#34;&gt;5&lt;/span&gt;  -369 is numeric : true
 &lt;span class=&#34;ln&#34;&gt;6&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;3-conclusion&#34;&gt;3. Conclusion&lt;/h2&gt;
-&lt;p&gt;To put it in nutshell in this article we got brief knowledge about identifying a String is a number or not. We identify both ways via external library and codebase.&lt;/p&gt;
+&lt;p&gt;To put it in nutshell in this article we got brief knowledge about identifying a String is a numeric or not in java. We identify both ways via external library and codebase.&lt;/p&gt;
 
         
       </description>
